@@ -1,0 +1,99 @@
+{
+"greeting": {
+    "en": {
+    "text": "Hello 👋 Welcome to Gopeshwar City Assistant. How can I help you?",
+    "cards": [
+        "Emergency",
+        "Hospital",
+        "Weather",
+        "Tourism"
+    ]
+    },
+
+    "hi": {
+    "text": "नमस्ते 👋 गोपेश्वर सिटी असिस्टेंट में आपका स्वागत है। मैं आपकी कैसे मदद कर सकता हूँ?",
+    "cards": [
+        "आपातकाल",
+        "अस्पताल",
+        "मौसम",
+        "पर्यटन"
+    ]
+    }
+},
+
+"emergency": {
+    "en": {
+    "text": "Emergency helpline numbers in Gopeshwar.",
+    "cards": [
+        "Police: 112",
+        "Ambulance: 108",
+        "Fire Brigade: 101"
+    ]
+    },
+
+    "hi": {
+    "text": "गोपेश्वर में आपातकालीन हेल्पलाइन नंबर।",
+    "cards": [
+        "पुलिस: 112",
+        "एम्बुलेंस: 108",
+        "फायर ब्रिगेड: 101"
+    ]
+    }
+},
+
+"hospital": {
+    "en": {
+    "text": "Main hospitals in Gopeshwar.",
+    "cards": [
+        "District Hospital",
+        "Emergency Ward"
+    ]
+    },
+
+    "hi": {
+    "text": "गोपेश्वर के मुख्य अस्पताल।",
+    "cards": [
+        "जिला अस्पताल",
+        "इमरजेंसी वार्ड"
+    ]
+    }
+},
+
+"weather": {
+    "en": {
+    "text": "Weather in Gopeshwar changes quickly during monsoon.",
+    "cards": [
+        "Heavy Rain Alert",
+        "Landslide Warning"
+    ]
+    },
+
+    "hi": {
+    "text": "मानसून में गोपेश्वर का मौसम जल्दी बदलता है।",
+    "cards": [
+        "भारी बारिश अलर्ट",
+        "भूस्खलन चेतावनी"
+    ]
+    }
+},
+
+"tourism": {
+    "en": {
+    "text": "Popular tourist places near Gopeshwar.",
+    "cards": [
+        "Badrinath",
+        "Kedarnath",
+        "Valley of Flowers"
+    ]
+    },
+
+    "hi": {
+    "text": "गोपेश्वर के पास लोकप्रिय पर्यटन स्थल।",
+    "cards": [
+        "बद्रीनाथ",
+        "केदारनाथ",
+        "फूलों की घाटी"
+    ]
+    }
+}
+}

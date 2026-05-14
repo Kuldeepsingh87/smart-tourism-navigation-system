@@ -1,0 +1,35 @@
+*{
+    margin:0;
+    padding:0;
+    box-sizing:border-box;
+}
+
+body{
+    display:flex;
+    height:100vh;
+    overflow:hidden;
+    font-family:Arial;
+}
+
+#map{
+    width:70%;
+    height:100vh;
+}
+
+.chat-wrapper{
+    width:30%;
+    background:white;
+    border-left:1px solid #ccc;
+    display:flex;
+    flex-direction:column;
+}
+
+.chat-header{
+    background:#0F6E56;
+    color:white;
+    padding:20px;
+}
+
+.messages{
+    padding:20px;
+}
